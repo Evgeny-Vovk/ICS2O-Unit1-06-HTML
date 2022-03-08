@@ -1,0 +1,27 @@
+/* Created by: Evgeny Vovk
+* Created on: Fab 2022
+* This CSS file defines the style for index.html ICS2O-Unit1-04-HTML
+*/
+
+p {
+  font-size: 125%;
+}
+
+h3 {
+  font-size: 165%;
+}
+
+#button-1 {
+  margin-left: 11em;
+}
+
+#section-1 {
+  background-color: cyan;
+  margin-right: 80em;
+  border: 3px solid black;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(50 50 150);
+}
